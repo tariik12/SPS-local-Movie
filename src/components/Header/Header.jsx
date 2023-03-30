@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
     return (
         <div>
-            <nav class="navbar bg-body-tertiary">
+            <nav class="navbar bg-body-tertiary border border-danger">
   <div class="container-fluid">
     <a class="navbar-brand text-white fa-bold">Movie World</a>
     <form class="d-flex" role="search">
